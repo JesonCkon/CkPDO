@@ -15,8 +15,8 @@ class CKPdoBase
     private $default_db_config = array();
     private $db_config_list = array();
     private $pdo_list = array();
-    //private $sql_type = '';
-    //private $all_sql_type = array('select', 'show', 'insert', 'update', 'delete');
+    private $sql_type = '';
+    private $all_sql_type = array('select', 'show', 'insert', 'update', 'delete');
 
     public static function getInstance()
     {
