@@ -1,0 +1,12 @@
+{
+    "name": "jeson-ckon/ck-pdo",
+    "description": "PHP PDO LIB",
+    "authors": [
+        {
+            "name": "Jeson.ckon",
+            "email": "ckontem@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
