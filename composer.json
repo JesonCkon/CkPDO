@@ -7,6 +7,9 @@
             "email": "ckontem@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": { "CkPdo\\": "src" }
+    },
     "minimum-stability": "dev",
     "require": {}
 }
